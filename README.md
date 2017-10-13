@@ -1,10 +1,10 @@
 Spree Mercado Pago Payment Method
 =================================
 
-This project is compatible with spree 3.2.0 and Rails 5
+This project is compatible with spree 3.4.0 and Rails 5.1.4
 
 ```
-gem 'spree_mercado_pago', '~> 3.2.0.rc2', git: "git@github.com:manuca/spree_mercado_pago.git"
+gem 'spree_mercado_pago', '~> 3.4.0', git: "git@github.com:manuca/spree_mercado_pago.git"
 ```
 
 You should run inside your project
